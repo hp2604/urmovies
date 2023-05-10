@@ -18,13 +18,13 @@ function Nav()
           
       <ul className="navbar-nav">
         <li className="nav-item">
-          <NavLink exact className="nav-link active" aria-current="page" to={"/"} >Home</NavLink>
+          <NavLink exact className="nav-link active" aria-current="page" to={"/urmovies"} >Home</NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to={"/bollywood"}>Bollywood </NavLink>
+          <NavLink className="nav-link" to={"/urmovies/bollywood"}>Bollywood </NavLink>
         </li>
         <li className="nav-item">
-          <NavLink className="nav-link" to={"/hollywood"}>Hollywood</NavLink>
+          <NavLink className="nav-link" to={"/urmovies/hollywood"}>Hollywood</NavLink>
         </li>
         <li className="nav-item">
           <NavLink  className="nav-link" to="https://github.com/hp2604/Urmovie.git">Git</NavLink>
