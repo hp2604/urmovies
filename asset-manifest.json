@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/urmovies/static/css/main.4237d4eb.css",
+    "main.js": "/urmovies/static/js/main.85b322ea.js",
+    "index.html": "/urmovies/index.html",
+    "main.4237d4eb.css.map": "/urmovies/static/css/main.4237d4eb.css.map",
+    "main.85b322ea.js.map": "/urmovies/static/js/main.85b322ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4237d4eb.css",
+    "static/js/main.85b322ea.js"
+  ]
+}
